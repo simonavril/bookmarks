@@ -1,7 +1,7 @@
-Bookmarks  Dev -Devops
+Bookmarks  Dev - Devops
 ==================
 
-Here is the evolving list of really blog posts that I want bookmarked. 
+Here is the evolving list of notes/blog posts that I want bookmarked.
 
 ----------
 
@@ -10,7 +10,7 @@ Infrastructure
 
 Security
 ---------
- - My First 5 Minutes On A Server. Bryan Kennedy. [\[link\]][1] 
+ - My First 5 Minutes On A Server. Bryan Kennedy. [link][1] 
 
 Ansible
 ---------
@@ -27,6 +27,7 @@ Docker
 **Understanding the persistance of data:**
    -  Advanced Docker Volumes: Michael Crosby [link][3]
    -  Tiny Docker Pieces, Loosely Joined. Tom Offermann [link][4]
+
 **Miscelanous:**
    -  Dokku: The smallest PaaS implementation you've ever seen [link][5]
 
