@@ -8,6 +8,10 @@ Here is the evolving list of notes/blog posts that I want bookmarked.
 Infrastructure
 ==================
 
+Deployment
+----------
+ - Great talk: Noah Kantrowitz: Application Deployment State of the Onion. [link][7]
+
 Security
 ---------
  - My First 5 Minutes On A Server. Bryan Kennedy. [link][1] 
@@ -38,5 +42,5 @@ Docker
   [4]: http://www.offermann.us/2013/12/tiny-docker-pieces-loosely-joined.html
   [5]: http://progrium.com/blog/2013/06/19/dokku-the-smallest-paas-implementation-youve-ever-seen/
   [6]: http://stackoverflow.com/questions/16647069/should-i-use-vagrant-or-docker-io-for-creating-an-isolated-environment
-
+  [7]: https://www.youtube.com/watch?v=SW1OXGl3Mck
   
