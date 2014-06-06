@@ -33,9 +33,10 @@ Vagrant
 Docker
 ---------
   - [The official docs][10] 
+  - [Ken Cochrane's Guidebook](http://kencochrane.net/blog/2013/08/the-docker-guidebook/)
   - [How mailgun uses Docker (watch video)][11]
   - [Should I use Vagrant or Docker.io for creating an isolated environment?][6]
-
+  
 **Understanding the persistance of data:**
    
    -  [Advanced Docker Volumes: Michael Crosby][3]
@@ -53,7 +54,12 @@ Docker
 
 *Advanced:*
    - [Multi host containers](http://goldmann.pl/blog/2014/01/21/connecting-docker-containers-on-multiple-hosts/)
+   - [Configuring gitlab with Docker - code](https://github.com/sameersbn/docker-gitlab/)
 
+Email
+-----
+   - [What MTA email client to use](http://linuxmantra.com/2010/07/sendmail-vs-postfix-vs-qmail-vs-exim.html)
+   
 Development
 ==========
 
