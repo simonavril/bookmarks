@@ -14,7 +14,7 @@ Deployment
 
 Architecture
 -----------
- - [5 different setups possible for the infrastructure][8] 
+ - [5 Common Server Setups For Your Web Application][8] 
 
 Security
 ---------
@@ -36,11 +36,15 @@ Docker
   - [Ken Cochrane's Guidebook](http://kencochrane.net/blog/2013/08/the-docker-guidebook/)
   - [How mailgun uses Docker (watch video)][11]
   - [Should I use Vagrant or Docker.io for creating an isolated environment?][6]
+  - [Continous Integration Workflow with Docker](http://mike-clarke.com/2013/11/applied-docker-continuous-integration/)
   
 **Understanding the persistance of data:**
    
    -  [Advanced Docker Volumes: Michael Crosby][3]
    -  [Tiny Docker Pieces, Loosely Joined. Tom Offermann][4]
+
+**Container Linking:**
+  - [Docker Links and Runtime Environment Variables](http://mike-clarke.com/2013/11/docker-links-and-runtime-env-vars/)
 
 **Miscelanous:**
 
@@ -54,7 +58,7 @@ Docker
 
 *Advanced:*
    - [Multi host containers](http://goldmann.pl/blog/2014/01/21/connecting-docker-containers-on-multiple-hosts/)
-   - [Configuring gitlab with Docker - code](https://github.com/sameersbn/docker-gitlab/)
+   - [Github Repo that configures gitlab with Docker - Sameer Naik](https://github.com/sameersbn/docker-gitlab/)
 
 Email
 -----
